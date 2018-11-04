@@ -1,1 +1,4 @@
-# bazel-java-protobuf
+
+```bash
+$ bazel build //src:onos-cfg
+
